@@ -1,0 +1,23 @@
+{
+  "name": "golf-scraper",
+  "version": "1.0.0",
+  "description": "Tell me where I can golf and for what price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrijPatel15/golf-scraper.git"
+  },
+  "author": "Brij Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrijPatel15/golf-scraper/issues"
+  },
+  "homepage": "https://github.com/BrijPatel15/golf-scraper#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
